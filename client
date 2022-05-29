@@ -1,27 +1,29 @@
-whoami:
+send:
 Microsoft Windows [版本 10.0.19043.1165]
 (c) Microsoft Corporation。保留所有权利。
 
-E:\home\ConsoleApp1\clientframe\bin\Debug>whoami
-desktop-cb2n0n7\13681
+E:\home\ConsoleApp1\clientframe\bin\Debug>send
 
 E:\home\ConsoleApp1\clientframe\bin\Debug>exit
-$#$ping www.baidu.com:
+$#$dir:
 Microsoft Windows [版本 10.0.19043.1165]
 (c) Microsoft Corporation。保留所有权利。
 
-E:\home\ConsoleApp1\clientframe\bin\Debug>ping www.baidu.com
+E:\home\ConsoleApp1\clientframe\bin\Debug>dir
+ 驱动器 E 中的卷是 文件
+ 卷的序列号是 5E5A-E242
 
-正在 Ping www.a.shifen.com [220.181.38.149] 具有 32 字节的数据:
-来自 220.181.38.149 的回复: 字节=32 时间=34ms TTL=50
-来自 220.181.38.149 的回复: 字节=32 时间=35ms TTL=50
-来自 220.181.38.149 的回复: 字节=32 时间=35ms TTL=50
-来自 220.181.38.149 的回复: 字节=32 时间=34ms TTL=50
+ E:\home\ConsoleApp1\clientframe\bin\Debug 的目录
 
-220.181.38.149 的 Ping 统计信息:
-    数据包: 已发送 = 4，已接收 = 4，丢失 = 0 (0% 丢失)，
-往返行程的估计时间(以毫秒为单位):
-    最短 = 34ms，最长 = 35ms，平均 = 34ms
+2022/05/29  23:54    <DIR>          .
+2022/05/29  23:54    <DIR>          ..
+2022/05/30  00:18             9,216 clientframe.exe
+2022/05/29  18:39               189 clientframe.exe.config
+2022/05/30  00:18            30,208 clientframe.pdb
+2016/06/14  07:06           526,336 Newtonsoft.Json.dll
+2016/06/14  07:06           523,221 Newtonsoft.Json.xml
+               5 个文件      1,089,170 字节
+               2 个目录 182,509,232,128 可用字节
 
 E:\home\ConsoleApp1\clientframe\bin\Debug>exit
 $#$
