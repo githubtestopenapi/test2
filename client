@@ -5,16 +5,16 @@ Microsoft Windows [版本 10.0.19043.1165]
 
 E:\home\ConsoleApp1\clientframe\bin\Debug>ping www.baidu.com
 
-正在 Ping www.baidu.com [36.152.44.96] 具有 32 字节的数据:
+正在 Ping www.a.shifen.com [36.152.44.96] 具有 32 字节的数据:
+来自 36.152.44.96 的回复: 字节=32 时间=16ms TTL=55
 来自 36.152.44.96 的回复: 字节=32 时间=11ms TTL=55
-来自 36.152.44.96 的回复: 字节=32 时间=13ms TTL=55
-来自 36.152.44.96 的回复: 字节=32 时间=9ms TTL=55
-来自 36.152.44.96 的回复: 字节=32 时间=12ms TTL=55
+来自 36.152.44.96 的回复: 字节=32 时间=10ms TTL=55
+来自 36.152.44.96 的回复: 字节=32 时间=10ms TTL=55
 
 36.152.44.96 的 Ping 统计信息:
     数据包: 已发送 = 4，已接收 = 4，丢失 = 0 (0% 丢失)，
 往返行程的估计时间(以毫秒为单位):
-    最短 = 9ms，最长 = 13ms，平均 = 11ms
+    最短 = 10ms，最长 = 16ms，平均 = 11ms
 
 E:\home\ConsoleApp1\clientframe\bin\Debug>
 E:\home\ConsoleApp1\clientframe\bin\Debug>exit
